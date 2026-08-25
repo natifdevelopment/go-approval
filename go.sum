@@ -82,8 +82,8 @@ github.com/natifdevelopment/go-circuitbreaker v0.0.1 h1:VcEwon/Lf+joRLFb8DP4bRnM
 github.com/natifdevelopment/go-circuitbreaker v0.0.1/go.mod h1:+2c46KpKVsdYYreA00zVdJS2TpKbHDrP1jjXSpZJ4Ds=
 github.com/natifdevelopment/go-observability v0.2.1 h1:JZW9TE6WoKz1qQVkah4AM01lDp63fCTy6x8Dwy3enJw=
 github.com/natifdevelopment/go-observability v0.2.1/go.mod h1:0NM8vUjzV/F1n2s5QSE92DrYXF0Zt9uRG1r0Ouc2oSE=
-github.com/natifdevelopment/go-types v1.0.16 h1:dGqeGojGUBaha+gP/zbZfrBffoosw3TJVxWUL+yAfH4=
-github.com/natifdevelopment/go-types v1.0.16/go.mod h1:nSvyuQ7VVlJSUl1phU8ZZHAJMK/jJWBogJrB/51xz7A=
+github.com/natifdevelopment/go-types v1.0.17 h1:/VLLTGk42j6zJhKgbQYHBjYtVxOp0JwlXE24ZlNCOOI=
+github.com/natifdevelopment/go-types v1.0.17/go.mod h1:jBVWG7aZR3wCBwCJdVCvUo9SH3OmlyZ21P5wOBlar+o=
 github.com/pelletier/go-toml/v2 v2.4.3 h1:GTRvJQutkOSftxIFD5xw9aepkYNuPWmVJpffdDPYVpY=
 github.com/pelletier/go-toml/v2 v2.4.3/go.mod h1:2gIqNv+qfxSVS7cM2xJQKtLSTLUE9V8t9Stt+h56mCY=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
