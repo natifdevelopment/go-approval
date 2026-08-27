@@ -5,7 +5,7 @@ go 1.26.6
 require (
 	github.com/google/uuid v1.6.0
 	github.com/natifdevelopment/go-circuitbreaker v0.0.1
-	github.com/natifdevelopment/go-types v1.0.18
+	github.com/natifdevelopment/go-types v1.0.19
 )
 
 require (
