@@ -154,7 +154,7 @@ func buildTLSConfig() (*tls.Config, error) {
 	}
 
 	// Load CA cert
-	caCert, err := os.ReadFile(caCertPath)
+	caCert, err := os.ReadFile(caCertPath) // #nosec G304 G703 -- path from env/config or caller, not request input
 	if err != nil {
 		return nil, fmt.Errorf("read CA cert: %w", err)
 	}
